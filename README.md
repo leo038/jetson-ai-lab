@@ -3,7 +3,7 @@ Nvidia jetson ai lab, provide many pre-build python package
 
 
 
-## 常用官方下载地址
+## 常用下载地址
 
 ### pytorch 和tensorflow 下载地址:
 [https://developer.download.nvidia.com/compute/redist/jp/](https://developer.download.nvidia.com/compute/redist/jp/)
@@ -22,9 +22,10 @@ Nvidia jetson ai lab, provide many pre-build python package
 
 这个里面也提供了很多预编译的包。 不过这个网站好像不太稳定， 经常挂掉。 
 
+### pytorch-for-jetson
+[https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048](https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048)
 
 
-
-
+### google drive
 这个链接是我整理以及自己编译的一些包：
 [https://drive.google.com/drive/folders/1aboXhuaZyw3yQxzbCY0B5E8U-LMkDdW8?usp=drive_link](https://drive.google.com/drive/folders/1aboXhuaZyw3yQxzbCY0B5E8U-LMkDdW8?usp=drive_link)
